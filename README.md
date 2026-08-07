@@ -64,7 +64,13 @@ Hi, I'm **Adarsh Anand** 👋
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me  
+Email--adarsh.anand.cg@gmail.com  
+
+Phone--7050581833  
+
+LinkedIn--www.linkedin.com/in/adarsh-anand-ab6282427
+
 
 <p align="center">
 
