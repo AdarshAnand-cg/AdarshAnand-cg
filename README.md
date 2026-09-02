@@ -36,10 +36,11 @@ Hi, I'm **Adarsh Anand** 👋
 
 ## 📚 Currently Learning
 
-- 🔹 Programming Fundamentals
+- 🔹 Programming Fundamentals of Python And JavaScript
 - 🔹 Web Development Basics
 - 🔹 UI/UX Design
 - 🔹 Version Control with Git & GitHub
+- 🔹 Communication Skills
 
 ---
 
@@ -52,15 +53,32 @@ Hi, I'm **Adarsh Anand** 👋
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ GITHUB INTELLIGENCE CENTER
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adarshanand&show_icons=true&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&text=GITHUB%20INTELLIGENCE&fontSize=32&fontColor=00FFFF&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshanand&theme=tokyonight" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=REAL-TIME+GITHUB+ANALYTICS;CODE+%7C+COMMITS+%7C+CONTRIBUTIONS;BUILDING+MY+DEVELOPER+PROFILE;WELCOME+TO+MY+GITHUB+UNIVERSE" />
 </p>
+
+### 🔥 CODING PHILOSOPHY
+
+<p align="center">
+
+```text
+LEARN  →  BUILD  →  COMMIT  →  PUSH  →  IMPROVE  →  REPEAT
+```
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer&animation=twinkling"/>
+</p>
+
 
 ---
 
