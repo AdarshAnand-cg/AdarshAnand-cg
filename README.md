@@ -12,7 +12,7 @@
 </p>
 
 ---
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4aa79328-1cbb-4a7d-9c19-ad2db9311a82" />  
 ## 👨‍💻 About Me
 
 Hi, I'm **Adarsh Anand** 👋
