@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adarshanand&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=AdarshAnand-cg&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
