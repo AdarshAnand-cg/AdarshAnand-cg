@@ -103,14 +103,10 @@ Email--adarsh.anand.cg@gmail.com
 Phone--7050581833  
 
 LinkedIn--www.linkedin.com/in/adarsh-anand-ab6282427
-
-
 <p align="center">
-
-<a href="https://github.com/adarshanand">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
+  <a href="https://www.linkedin.com/in/adarsh-anand-ab6282427/"><img src="./docs/assets/svg/linkedin_btn.svg" height="48" alt="Connect on LinkedIn" /></a>
+  &nbsp;
+  <a href="https://github.com/AdarshAnand-cg"><img src="./docs/assets/svg/github_btn.svg" height="48" alt="Follow on GitHub" /></a>
 </p>
 
 ---
@@ -118,3 +114,7 @@ LinkedIn--www.linkedin.com/in/adarsh-anand-ab6282427
 <h3 align="center">
 ⭐ KEEP LEARNING | KEEP BUILDING | KEEP GROWING ⭐
 </h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,100:00E676&height=150&section=footer" alt="Profile footer wave" />
+</p>
