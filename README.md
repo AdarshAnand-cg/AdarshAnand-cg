@@ -82,6 +82,17 @@ I believe in continuous learning, practical implementation, and improving throug
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshAnand-cg&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
+
+## 📈 Weekly Contribution Activity
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/AdarshAnand-cg/AdarshAnand-cg/output/weekly-contributions.svg"
+    width="100%"
+    alt="Weekly GitHub Contributions - Last 3 Months"
+  />
+</p>
+
 ---
 
 ## 🐍 Contribution Snake
