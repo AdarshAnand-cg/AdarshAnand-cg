@@ -83,16 +83,7 @@ I believe in continuous learning, practical implementation, and improving throug
 </p>
 
 
-## 📈 Weekly Contribution Activity
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/AdarshAnand-cg/AdarshAnand-cg/output/weekly-contributions.svg"
-    width="100%"
-    alt="Weekly GitHub Contribution Chart"
-  />
-</p>
----
 
 ## 🐍 Contribution Snake
 
