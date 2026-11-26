@@ -121,10 +121,18 @@ I believe in continuous learning, practical implementation, and improving throug
   </a>
 </p>
 
+<div align="center">
+  <img src="https://count.getloli.com/get/@AdarshAnand-cg?theme=rule408" alt="AdarshAnand-cg's count"/>
+  <p>Thanks to visited.</p>
+</div>
+<div align=right>
+  <p>AdarshAnand-cg</p>
+</div>
+
 <p align="center">
   📧 <b>Email:</b> adarsh.anand.cg@gmail.com<br/>
   📱 <b>Phone:</b> 7050581833<br/>
-  💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/adarsh-anand-ab6282427/">Adarsh Anand</a>
+  💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/adarsh-anand-ab6282427/" style="text-decoration: none; color : white ">Adarsh Anand</a>
 </p>
 
 ---
