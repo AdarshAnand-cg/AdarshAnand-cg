@@ -142,5 +142,5 @@ I believe in continuous learning, practical implementation, and improving throug
 </h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,50:087E8B,100:00D9FF&height=120&section=footer&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9933,50:FFFFFF,100:138808&height=200&section=footer&animation=blinking" width="300%" />
 </p>
