@@ -1,58 +1,98 @@
 
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1200" height="220"
+     viewBox="0 0 1200 220">
+
   <defs>
-    <linearGradient id="saffron" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#FF9933"/>
-      <stop offset="100%" stop-color="#FFB347"/>
+    <!-- Waving cloth animation -->
+    <filter id="wave" x="-10%" y="-20%" width="120%" height="140%">
+      <feTurbulence type="fractalNoise"
+                    baseFrequency="0.008 0.035"
+                    numOctaves="2"
+                    seed="5"
+                    result="noise">
+        <animate attributeName="baseFrequency"
+                 values="0.008 0.035;0.015 0.055;0.008 0.035"
+                 dur="5s"
+                 repeatCount="indefinite"/>
+      </feTurbulence>
+      <feDisplacementMap in="SourceGraphic"
+                         in2="noise"
+                         scale="13"
+                         xChannelSelector="R"
+                         yChannelSelector="G"/>
+    </filter>
+
+    <!-- Flag colours -->
+    <linearGradient id="saffron" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFB347"/>
+      <stop offset="100%" stop-color="#FF9933"/>
     </linearGradient>
-    <linearGradient id="green" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#138808"/>
-      <stop offset="100%" stop-color="#006B35"/>
+
+    <linearGradient id="green" x2="0" y2="1">
+      <stop offset="0%" stop-color="#16A34A"/>
+      <stop offset="100%" stop-color="#138808"/>
     </linearGradient>
-    <path id="wave" d="M0 0 Q300 18 600 0 T1200 0 V72 Q900 90 600 72 T0 72Z"/>
+
+    <!-- Ashoka Chakra spoke -->
+    <line id="spoke"
+          x1="600" y1="110"
+          x2="600" y2="80"
+          stroke="#000080"
+          stroke-width="2.5"/>
+
   </defs>
 
-  <!-- Saffron -->
-  <rect width="1200" height="73" fill="url(#saffron)"/>
+  <!-- Animated flag -->
+  <g filter="url(#wave)">
 
-  <!-- White -->
-  <rect y="73" width="1200" height="74" fill="#FFFFFF"/>
+    <!-- Saffron -->
+    <rect x="0" y="0" width="1200" height="73"
+          fill="url(#saffron)"/>
 
-  <!-- Green -->
-  <rect y="147" width="1200" height="73" fill="url(#green)"/>
+    <!-- White -->
+    <rect x="0" y="73" width="1200" height="74"
+          fill="#FFFFFF"/>
 
-  <!-- Ashoka Chakra -->
-  <g fill="none" stroke="#000080" stroke-width="2.5">
-    <circle cx="600" cy="110" r="32"/>
-    <circle cx="600" cy="110" r="4" fill="#000080"/>
+    <!-- Green -->
+    <rect x="0" y="147" width="1200" height="73"
+          fill="url(#green)"/>
 
-    <g id="spoke">
-      <line x1="600" y1="110" x2="600" y2="80"/>
+    <!-- Ashoka Chakra -->
+    <g fill="none" stroke="#000080">
+
+      <circle cx="600" cy="110" r="31"
+              stroke-width="3"/>
+
+      <circle cx="600" cy="110" r="4"
+              fill="#000080"/>
+
+      <use xlink:href="#spoke"/>
+      <use xlink:href="#spoke" transform="rotate(15 600 110)"/>
+      <use xlink:href="#spoke" transform="rotate(30 600 110)"/>
+      <use xlink:href="#spoke" transform="rotate(45 600 110)"/>
+      <use xlink:href="#spoke" transform="rotate(60 600 110)"/>
+      <use xlink:href="#spoke" transform="rotate(75 600 110)"/>
+      <use xlink:href="#spoke" transform="rotate(90 600 110)"/>
+      <use xlink:href="#spoke" transform="rotate(105 600 110)"/>
+      <use xlink:href="#spoke" transform="rotate(120 600 110)"/>
+      <use xlink:href="#spoke" transform="rotate(135 600 110)"/>
+      <use xlink:href="#spoke" transform="rotate(150 600 110)"/>
+      <use xlink:href="#spoke" transform="rotate(165 600 110)"/>
+      <use xlink:href="#spoke" transform="rotate(180 600 110)"/>
+      <use xlink:href="#spoke" transform="rotate(195 600 110)"/>
+      <use xlink:href="#spoke" transform="rotate(210 600 110)"/>
+      <use xlink:href="#spoke" transform="rotate(225 600 110)"/>
+      <use xlink:href="#spoke" transform="rotate(240 600 110)"/>
+      <use xlink:href="#spoke" transform="rotate(255 600 110)"/>
+      <use xlink:href="#spoke" transform="rotate(270 600 110)"/>
+      <use xlink:href="#spoke" transform="rotate(285 600 110)"/>
+      <use xlink:href="#spoke" transform="rotate(300 600 110)"/>
+      <use xlink:href="#spoke" transform="rotate(315 600 110)"/>
+      <use xlink:href="#spoke" transform="rotate(330 600 110)"/>
+      <use xlink:href="#spoke" transform="rotate(345 600 110)"/>
+
     </g>
-
-    <use href="#spoke"/>
-    <use href="#spoke" transform="rotate(15 600 110)"/>
-    <use href="#spoke" transform="rotate(30 600 110)"/>
-    <use href="#spoke" transform="rotate(45 600 110)"/>
-    <use href="#spoke" transform="rotate(60 600 110)"/>
-    <use href="#spoke" transform="rotate(75 600 110)"/>
-    <use href="#spoke" transform="rotate(90 600 110)"/>
-    <use href="#spoke" transform="rotate(105 600 110)"/>
-    <use href="#spoke" transform="rotate(120 600 110)"/>
-    <use href="#spoke" transform="rotate(135 600 110)"/>
-    <use href="#spoke" transform="rotate(150 600 110)"/>
-    <use href="#spoke" transform="rotate(165 600 110)"/>
-    <use href="#spoke" transform="rotate(180 600 110)"/>
-    <use href="#spoke" transform="rotate(195 600 110)"/>
-    <use href="#spoke" transform="rotate(210 600 110)"/>
-    <use href="#spoke" transform="rotate(225 600 110)"/>
-    <use href="#spoke" transform="rotate(240 600 110)"/>
-    <use href="#spoke" transform="rotate(255 600 110)"/>
-    <use href="#spoke" transform="rotate(270 600 110)"/>
-    <use href="#spoke" transform="rotate(285 600 110)"/>
-    <use href="#spoke" transform="rotate(300 600 110)"/>
-    <use href="#spoke" transform="rotate(315 600 110)"/>
-    <use href="#spoke" transform="rotate(330 600 110)"/>
-    <use href="#spoke" transform="rotate(345 600 110)"/>
   </g>
 </svg>
